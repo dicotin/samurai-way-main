@@ -9,18 +9,7 @@
     grid-gap: 10px;
 
 }
-.nav{
-    grid-area: nav;
-    background-color: antiquewhite;
-}
-.header{
-    grid-area: header;
-    background-color: lightblue;
-}
-.header img{
-    width: 70px;
-}
-.content{
+.app-wrapper-content{
     grid-area: content;
     background-color: aliceblue;
 }
